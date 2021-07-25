@@ -60,6 +60,10 @@ sysinfo.txt
 *.aab
 *.unitypackage
 
+# VSCode
+*.vscode
+*.vsconfig
+
 # Crashlytics generated file
 crashlytics-build.properties
 
