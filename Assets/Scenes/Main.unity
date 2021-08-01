@@ -9483,7 +9483,7 @@ MonoBehaviour:
   weaponSprite: []
   weaponPrices: 
   xpTable: 
-  player: {fileID: 0}
+  player: {fileID: 901756620}
   floatingTextManager: {fileID: 598687436}
   gold: 0
   experience: 0
